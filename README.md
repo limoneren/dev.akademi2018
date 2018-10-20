@@ -21,9 +21,11 @@ arg2: Category (from this set: 'İkinci El ve Sıfır Alışveriş', 'Emlak', 'V
 
 Output gives you what your bid should be.
 
-### Example run and output:
+### Example run:
 
 rscript --vanilla ml_experiment.R 20000 Emlak
-       1
+
+### Output:
+       1 \n
 341.3724
 
