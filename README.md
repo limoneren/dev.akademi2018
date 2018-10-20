@@ -26,6 +26,6 @@ Output gives you what your bid should be.
 rscript --vanilla ml_experiment.R 20000 Emlak
 
 ### Output:
-       1 \n
+       1<br />
 341.3724
 
