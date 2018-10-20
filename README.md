@@ -11,7 +11,7 @@ So, first part of the code is trying to do this.
 Second approach is to use multivariate linear regression to find the same thing. This is the current working model.
 
 ### To run, 
-First install the 4 R packages manually (unfortunately cli does not let you to do this).
+First install the 4 R packages manually (unfortunately my cli did not allow me to do this, so I installed on RStudio).
 And then go to the directory and run the script
 
 rscript --vanilla ml_experiment.R arg1 arg2;
