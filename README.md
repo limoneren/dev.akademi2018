@@ -31,3 +31,5 @@ rscript --vanilla ml_experiment.R 20000 Emlak
 
 341.3724
 
+(Output is a vector and 1 indicates the first element of the vector)
+
